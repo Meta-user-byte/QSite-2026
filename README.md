@@ -1,7 +1,19 @@
 ## Team Photon_riders
 
-Team members: Ankit Sharma [Username: PhotonCruyo]
-              \\ Soham [Username: soardraspi]
+# Team Photon_riders
+
+**Team members:**
+- Ankit Sharma ([@PhotonCruyo](https://github.com/PhotonCruyo))
+- Soham ([@soardraspi](https://github.com/soardraspi))
+
+---
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Quantum Algorithm Framework](#quantum-algorithm-framework)
+- [Results](#results)
+  -
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -13,3 +25,5 @@ Team members: Ankit Sharma [Username: PhotonCruyo]
 4. [Circuit Optimization](#circuit-optimization)
 5. [Key Insights and Future Work](#key-insights-and-future-work)
 6. [Conclusion](#conclusion)
+
+## Introduction
