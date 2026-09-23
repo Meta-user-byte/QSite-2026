@@ -9,7 +9,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Our approach](#Qur approach)
+2. [Our approach](#Qur-approach)
 3. [Results & Completed deliverables](#Results-&-Completed-deliverables)
    - [Comparison with Classical Solutions](#comparison-with-classical-solutions)
    - [Energy Dynamics](#energy-dynamics)
