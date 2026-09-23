@@ -3,17 +3,10 @@
 # Team Photon_riders
 
 **Team members:**
-- Ankit Sharma ([@PhotonCruyo](https://github.com/PhotonCruyo))
+- Ankit Sharma ([@PhotonCruyo](https://github.com/PhotonCryo))
 - Soham ([@soardraspi](https://github.com/soardraspi))
 
 ---
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Quantum Algorithm Framework](#quantum-algorithm-framework)
-- [Results](#results)
-  -
 
 ## Table of Contents
 1. [Introduction](#introduction)
