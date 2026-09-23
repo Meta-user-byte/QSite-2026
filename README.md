@@ -1,7 +1,7 @@
 ## Team Photon_riders
 
 Team members: Ankit Sharma [Username: PhotonCruyo]
-              Soham [Username:]
+              \\ Soham [Username: soardraspi]
 
 ## Table of Contents
 1. [Introduction](#introduction)
