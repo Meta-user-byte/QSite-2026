@@ -9,14 +9,13 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Quantum Algorithm Framework](#quantum-algorithm-framework)
-3. [Results](#results)
+2. [Our approach](#Qur approach)
+3. [Results & Completed deliverables](#Results-&-Completed-deliverables)
    - [Comparison with Classical Solutions](#comparison-with-classical-solutions)
    - [Energy Dynamics](#energy-dynamics)
    - [Parameter Range Observations](#parameter-range-observations)
-4. [Circuit Optimization](#circuit-optimization)
-5. [Key Insights and Future Work](#key-insights-and-future-work)
-6. [Conclusion](#conclusion)
+4. [Key Insights and Future Work](#key-insights-and-future-work)
+5. [Conclusion](#conclusion)
 
 ## Introduction
 This project addresses the **Theory Track: Mapping the Phase Diagram of the ANNNI Model Under Noise**.  
