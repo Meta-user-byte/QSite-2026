@@ -8,14 +8,26 @@
 ---
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Our approach](#Qur-approach)
-3. [Results & Completed deliverables](#Results-&-Completed-deliverables)
-   - [Comparison with Classical Solutions](#comparison-with-classical-solutions)
-   - [Energy Dynamics](#energy-dynamics)
-   - [Parameter Range Observations](#parameter-range-observations)
-4. [Key Insights and Future Work](#key-insights-and-future-work)
-5. [Conclusion](#conclusion)
+
+1. [Overview](#overview)
+2. [Problem Statement](#problem-statement)
+3. [Approach](#approach)
+   - [Exact Diagonalization](#exact-diagonalization)
+   - [Phase Identification](#phase-identification)
+   - [VQE](#vqe)
+   - [Depolarizing Noise](#depolarizing-noise)
+4. [Scalability and Simulation Optimization](#scalability-and-simulation-optimization)
+5. [Validation](#validation)
+6. [Results](#results)
+   - [Clean Phase Diagram](#clean-phase-diagram)
+   - [Noisy Phase Diagram — p = 0.01](#noisy-phase-diagram--p--001)
+   - [Noisy Phase Diagram — p = 0.05](#noisy-phase-diagram--p--005)
+   - [ED–VQE Comparison](#edvqe-comparison)
+   - [Noise Analysis](#noise-analysis)
+   - [Finite-Size Validation](#finite-size-validation)
+7. [Key Contributions](#key-contributions)
+8. [Project Structure](#project-structure)
+9. [References](#references)
 
 ## Overview
 
