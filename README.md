@@ -186,13 +186,15 @@ Add a comparison showing how the observable-based phase structure changes with i
 
 ## VQE Validation
 
-**[Insert ED vs VQE energy comparison here]**
+<img width="729" height="749" alt="t" src="https://github.com/user-attachments/assets/f5b53a03-5b03-4a94-9b4a-9a6f0c639c98" />
+
 
 Include the representative parameter points and the corresponding energy agreement.
 
 ## Noise and Phase Robustness
 
-**[Insert quantitative noise analysis here]**
+<img width="901" height="330" alt="Screenshot 2026-09-26 at 9 28 39 AM" src="https://github.com/user-attachments/assets/c8d9e06e-56c6-4d71-9729-bc07d0ac8c75" />
+
 
 Possible quantities to report:
 
