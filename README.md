@@ -168,13 +168,15 @@ Add the 30 × 30 phase map, analytical reference curves, and a short interpretat
 
 ## Noisy Phase Diagrams
 
+VQE-based N = 8, 4 Layers, Ferromagnetic order
+
 ### \(p = 0.01\)
 
-**[Insert noisy phase diagram here]**
+<img width="651" height="455" alt="Screenshot 2026-09-26 at 9 20 49 AM" src="https://github.com/user-attachments/assets/da9f6b35-9b81-4d88-9c03-868c4f111309" />
 
 ### \(p = 0.05\)
 
-**[Insert noisy phase diagram here]**
+<img width="651" height="455" alt="Screenshot 2026-09-26 at 9 19 30 AM" src="https://github.com/user-attachments/assets/ce533021-4e87-485d-bc79-e5bbe3d98bb0" />
 
 Add a comparison showing how the observable-based phase structure changes with increasing noise.
 
