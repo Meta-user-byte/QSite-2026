@@ -168,6 +168,10 @@ Add the 30 × 30 phase map, analytical reference curves, and a short interpretat
 
 ## Noisy Phase Diagrams
 
+ED-based
+
+https://github.com/user-attachments/assets/9b8cdd02-3ea7-4088-b917-89082dcbf4f5
+
 VQE-based N = 8, 4 Layers, Ferromagnetic order
 
 ### \(p = 0.01\)
