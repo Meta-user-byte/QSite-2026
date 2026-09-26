@@ -206,7 +206,8 @@ Possible quantities to report:
 
 ## Finite-Size Validation
 
-**[Insert \(N=12\) validation results here]**
+<img width="1339" height="873" alt="Screenshot 2026-09-26 at 9 29 30 AM" src="https://github.com/user-attachments/assets/bb2d0288-b17f-4c59-bd12-e487bcaf45b3" />
+
 
 Use selected cuts, observables, or phase maps to show how the finite-size picture changes with system size.
 
