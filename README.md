@@ -157,10 +157,10 @@ The implementation is checked at multiple levels:
 
 ## Clean Phase Diagram
 
-N = 8, 4 Layers
+N = 8, 4 Layers, bond dimension = 16
 <img width="1339" height="756" alt="Screenshot 2026-09-26 at 9 07 44 AM" src="https://github.com/user-attachments/assets/2eabd62b-e843-49c3-9a0e-46b8f226432f" />
 
-N = 12, 4 Layers
+N = 12, 4 Layers, bond dimension = 8
 <img width="1339" height="756" alt="Screenshot 2026-09-26 at 9 08 18 AM" src="https://github.com/user-attachments/assets/0c922c95-ae8f-4122-9a17-c8c815d9e836" />
 
 
